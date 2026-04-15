@@ -31,3 +31,11 @@ Este é um projeto Java simples que demonstra a Lei de Demeter (Law of Demeter) 
 ## Lei de Demeter
 
 A Lei de Demeter diz que um objeto deve conhecer apenas seus amigos imediatos, não os amigos dos amigos. Isso promove baixo acoplamento e alta coesão.
+
+## Créditos
+
+- Rafael Lima
+- Dhiogo Lima
+- Pedro Benevides
+- Gabriel Terra
+- Everton
